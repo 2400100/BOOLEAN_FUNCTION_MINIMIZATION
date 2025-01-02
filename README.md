@@ -59,5 +59,6 @@ Developed by: SUBIKSHA K RegisterNumber: 24001100
 
 **Result:**
 
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+Hence, Boolean Function Minimization is checked and verified using quartus software.
+
 
